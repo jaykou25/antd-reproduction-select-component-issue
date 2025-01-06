@@ -41,4 +41,6 @@ src/components/my-select/index.test.tsx
 SyntaxError: ':scope +.ant-select-item-option-selected:not(.ant-select-item-option-disabled))+.ant-select-item-option-selected:not(.ant-select-item-option-disabled' is not a valid selector
 ```
 
+**注意如果使用 `rc-select` 是没有错误的**
+
 
