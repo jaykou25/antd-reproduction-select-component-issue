@@ -35,4 +35,10 @@ pnpm test
 src/components/my-select/index.test.tsx
 ```
 
+运行 `pnpm test` 后报错:
+
+```
+SyntaxError: ':scope +.ant-select-item-option-selected:not(.ant-select-item-option-disabled))+.ant-select-item-option-selected:not(.ant-select-item-option-disabled' is not a valid selector
+```
+
 
